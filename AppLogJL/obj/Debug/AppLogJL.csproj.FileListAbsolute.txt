@@ -9,3 +9,14 @@ F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppUtilJL.pdb
 F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.CopyComplete
 F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.dll
 F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.pdb
+F:\Teste\CompaniJL\AppLogJL\bin\Debug\AppLogJL.dll
+F:\Teste\CompaniJL\AppLogJL\bin\Debug\AppLogJL.pdb
+F:\Teste\CompaniJL\AppLogJL\bin\Debug\AppArqTXTJL.dll
+F:\Teste\CompaniJL\AppLogJL\bin\Debug\AppUtilJL.dll
+F:\Teste\CompaniJL\AppLogJL\bin\Debug\AppArqTXTJL.pdb
+F:\Teste\CompaniJL\AppLogJL\bin\Debug\AppUtilJL.pdb
+F:\Teste\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.AssemblyReference.cache
+F:\Teste\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.CoreCompileInputs.cache
+F:\Teste\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.CopyComplete
+F:\Teste\CompaniJL\AppLogJL\obj\Debug\AppLogJL.dll
+F:\Teste\CompaniJL\AppLogJL\obj\Debug\AppLogJL.pdb

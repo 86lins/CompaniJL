@@ -13,6 +13,8 @@
                 {
                     Teste(i);
 
+                    //teste
+
                     //log.GravaLog($"Teste - {i}");
 
                     //if (i == 1000)

@@ -11,3 +11,16 @@ F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.CoreCompileInp
 F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.CopyComplete
 F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.dll
 F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.pdb
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppLogCOGESP.dll
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppLogCOGESP.pdb
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppArqTXTJL.dll
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppLogJL.dll
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppUtilJL.dll
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppArqTXTJL.pdb
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppLogJL.pdb
+F:\Teste\CompaniJL\AppLogCOGESP\bin\Debug\AppUtilJL.pdb
+F:\Teste\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.AssemblyReference.cache
+F:\Teste\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.CoreCompileInputs.cache
+F:\Teste\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.CopyComplete
+F:\Teste\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.dll
+F:\Teste\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.pdb

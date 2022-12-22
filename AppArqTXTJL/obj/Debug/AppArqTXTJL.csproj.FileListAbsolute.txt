@@ -7,3 +7,12 @@ F:\CompaniJL\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.csproj.CoreCompileInput
 F:\CompaniJL\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.csproj.CopyComplete
 F:\CompaniJL\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.dll
 F:\CompaniJL\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.pdb
+F:\Teste\CompaniJL\AppArqTXTJL\bin\Debug\AppArqTXTJL.dll
+F:\Teste\CompaniJL\AppArqTXTJL\bin\Debug\AppArqTXTJL.pdb
+F:\Teste\CompaniJL\AppArqTXTJL\bin\Debug\AppUtilJL.dll
+F:\Teste\CompaniJL\AppArqTXTJL\bin\Debug\AppUtilJL.pdb
+F:\Teste\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.csproj.AssemblyReference.cache
+F:\Teste\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.csproj.CoreCompileInputs.cache
+F:\Teste\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.csproj.CopyComplete
+F:\Teste\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.dll
+F:\Teste\CompaniJL\AppArqTXTJL\obj\Debug\AppArqTXTJL.pdb

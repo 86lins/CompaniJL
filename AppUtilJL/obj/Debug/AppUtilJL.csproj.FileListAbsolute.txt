@@ -4,3 +4,9 @@ F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.csproj.AssemblyReference.ca
 F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.csproj.CoreCompileInputs.cache
 F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.dll
 F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.pdb
+F:\Teste\CompaniJL\AppUtilJL\bin\Debug\AppUtilJL.dll
+F:\Teste\CompaniJL\AppUtilJL\bin\Debug\AppUtilJL.pdb
+F:\Teste\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.csproj.AssemblyReference.cache
+F:\Teste\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.csproj.CoreCompileInputs.cache
+F:\Teste\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.dll
+F:\Teste\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.pdb

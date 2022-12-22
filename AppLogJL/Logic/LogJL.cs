@@ -74,7 +74,7 @@
 
             Util.CriarPasta(caminho);
 
-            caminho += $"\\LogErrorFatal_{nomeSistema}{DateTime.Now:ddMMyyyyHHmmssfff}.log";
+            caminho += $"\\LogErrorFatal_{(string.IsNullOrEmpty(nomeSistema) ? string.Empty : $"{nomeSistema}_") }{DateTime.Now:ddMMyyyyHHmmssfff}.log";
 
             if (!File.Exists(caminho))
             {
@@ -90,14 +90,17 @@
                 if (!string.IsNullOrEmpty(cabecalho))
                     textWriter.WriteLine(cabecalho);
 
-                textWriter.WriteLine(GetLinhaLogFormat($@"-- ERRO FATAL NÃO TRATADO --
+                textWriter.WriteLine(GetLinhaLogFormat($@"
+--- ERRO FATAL NÃO TRATADO ---
+
 Exception:
-1.--------Message: '{ex.Message}'.
-2.---------Source: '{ex.Source}'.
-3.-----TargetSite: '{ex.TargetSite}'.
-4.-InnerException: '{ex.InnerException}'.
-5.----StackTracer: '{ex.StackTrace}'.
------------------: '{ex}'."));
+    1.--------Message: '{ex.Message}'.
+    2.---------Source: '{ex.Source}'.
+    3.-----TargetSite: '{ex.TargetSite}'.
+    4.-InnerException: '{ex.InnerException}'.
+    5.----StackTracer: '{(ex.StackTrace??"").TrimStart()}'.
+
+'{ex}'."));
                 textWriter.Close();
                 textWriter.Dispose();
             }

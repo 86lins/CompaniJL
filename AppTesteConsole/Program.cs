@@ -1,6 +1,6 @@
 ﻿namespace AppTesteConsole
 {
-    using AppLogCOGESP.Logic.Static;    
+    using AppLogJL.Logic.Static;    
     using System;
 
     internal class Program
@@ -25,14 +25,14 @@
             }
             catch (Exception ex)
             {
-                LogArq.LogException(ex);
+                LogJL.LogException(ex);
             }
             Environment.Exit(1);
         }
 
         private static void Teste(int i)
         {
-            LogArq.GravaLog($"Teste - {i}");
+            LogJL.GravaLog($"Teste - {i}");
 
             if (i == 1000)
             {

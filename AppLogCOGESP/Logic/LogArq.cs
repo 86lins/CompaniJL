@@ -50,7 +50,7 @@
 ░█░░══════════ █░░░░░█─█ ═══██════██══██══██══█══██══════██══██════{"".PadRight(maxLength - 44, '═')}░░█░
 ░█░░══════════ ▀▄▄▄▄▄▀▀ ════████══██████══█████══████══████══██════{"".PadRight(maxLength - 44, '═')}░░█░
 ░█░░{"".PadRight(maxLength + 19, '═')}░░█░
-░█░░═══════════════ CONTATO: cogesp@sad.ms.gov.br {"".PadRight(maxLength - NomeSistema.Length - 17, '═')}░░█░
+░█░░═══════════════ CONTATO: cogesp@sad.ms.gov.br {"".PadRight(maxLength - NomeSistema.Length - 12, '═')}░░█░
 ░█░░═══════════════════ APP: {NomeSistema} {"".PadRight(maxLength - NomeSistema.Length - 7, '═')}░░█░
 ░█░░═══════════════ USUARIO: {InformacoesLocais.MaquinaLocalDominioUsuarioLogado} {"".PadRight(maxLength - InformacoesLocais.MaquinaLocalDominioUsuarioLogado.Length - 7, '═')}░░█░
 ░█░░════════════════════ PC: {InformacoesLocais.MaquinaLocalIPV4_Host} {"".PadRight(maxLength - InformacoesLocais.MaquinaLocalIPV4_Host.Length - 7, '═')}░░█░

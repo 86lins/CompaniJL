@@ -1,0 +1,13 @@
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppLogCOGESP.dll
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppLogCOGESP.pdb
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppArqTXTJL.dll
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppLogJL.dll
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppUtilJL.dll
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppArqTXTJL.pdb
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppLogJL.pdb
+F:\CompaniJL\CompaniJL\AppLogCOGESP\bin\Debug\AppUtilJL.pdb
+F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.AssemblyReference.cache
+F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.CoreCompileInputs.cache
+F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.csproj.CopyComplete
+F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.dll
+F:\CompaniJL\CompaniJL\AppLogCOGESP\obj\Debug\AppLogCOGESP.pdb

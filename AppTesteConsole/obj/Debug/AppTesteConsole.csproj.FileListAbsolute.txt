@@ -1,0 +1,17 @@
+F:\CompaniJL\CompaniJL\AppTesteConsole\obj\Debug\AppTesteConsole.csproj.AssemblyReference.cache
+F:\CompaniJL\CompaniJL\AppTesteConsole\obj\Debug\AppTesteConsole.csproj.SuggestedBindingRedirects.cache
+F:\CompaniJL\CompaniJL\AppTesteConsole\obj\Debug\AppTesteConsole.csproj.CoreCompileInputs.cache
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppTesteConsole.exe.config
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppTesteConsole.exe
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppTesteConsole.pdb
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppLogCOGESP.dll
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppLogJL.dll
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppUtilJL.dll
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppArqTXTJL.dll
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppLogCOGESP.pdb
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppLogJL.pdb
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppUtilJL.pdb
+F:\CompaniJL\CompaniJL\AppTesteConsole\bin\Debug\AppArqTXTJL.pdb
+F:\CompaniJL\CompaniJL\AppTesteConsole\obj\Debug\AppTesteConsole.csproj.CopyComplete
+F:\CompaniJL\CompaniJL\AppTesteConsole\obj\Debug\AppTesteConsole.exe
+F:\CompaniJL\CompaniJL\AppTesteConsole\obj\Debug\AppTesteConsole.pdb

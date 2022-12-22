@@ -1,0 +1,6 @@
+F:\CompaniJL\CompaniJL\AppUtilJL\bin\Debug\AppUtilJL.dll
+F:\CompaniJL\CompaniJL\AppUtilJL\bin\Debug\AppUtilJL.pdb
+F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.csproj.AssemblyReference.cache
+F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.csproj.CoreCompileInputs.cache
+F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.dll
+F:\CompaniJL\CompaniJL\AppUtilJL\obj\Debug\AppUtilJL.pdb

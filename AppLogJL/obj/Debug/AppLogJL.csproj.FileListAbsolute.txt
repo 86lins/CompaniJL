@@ -1,0 +1,11 @@
+F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.AssemblyReference.cache
+F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.CoreCompileInputs.cache
+F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppLogJL.dll
+F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppLogJL.pdb
+F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppArqTXTJL.dll
+F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppUtilJL.dll
+F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppArqTXTJL.pdb
+F:\CompaniJL\CompaniJL\AppLogJL\bin\Debug\AppUtilJL.pdb
+F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.csproj.CopyComplete
+F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.dll
+F:\CompaniJL\CompaniJL\AppLogJL\obj\Debug\AppLogJL.pdb
